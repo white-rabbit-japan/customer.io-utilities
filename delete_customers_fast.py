@@ -201,7 +201,7 @@ def delete_customers_fast(customers: List[Dict[str, Any]], max_workers: int = 10
 
 def main():
     """Main function to run the high-speed customer deletion script."""
-    csv_file = "files/BLK customers-2025-05-25_13-21.csv"
+    csv_file = "files/JPR2customers-2025-05-25_14-14.csv"
 
     print("🚀 Customer.io HIGH-SPEED Bulk Customer Deletion Script")
     print("=" * 60)
