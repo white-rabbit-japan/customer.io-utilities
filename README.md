@@ -1,5 +1,7 @@
 # Customer.io Bulk Customer Deletion
 
+This repo is public.
+
 This Python script deletes all customers from Customer.io using data from a CSV file.
 
 ## Setup
